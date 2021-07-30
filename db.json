@@ -1,0 +1,292 @@
+{
+    "activity": {
+        "preHeading": "Creative",
+        "heading": "Activity",
+        "tabTitle_1": "All",
+        "tabTitle_2": "Recent",
+        "tabTitle_3": "Purchase",
+        "widgetTitle": "Filters",
+        "tabData_1": [
+            {
+                "id": 1,
+                "img": "/img/auction_5.jpg",
+                "title": "Walking On Air",
+                "price": "14 ETH",
+                "time": "4 hours ago",
+                "seller": "@arham"
+            },
+            {
+                "id": 2,
+                "img": "/img/auction_6.jpg",
+                "title": "Virtual Worlds",
+                "price": "10 ETH",
+                "time": "8 hours ago",
+                "seller": "@junaid"
+            },
+            {
+                "id": 3,
+                "img": "/img/auction_7.jpg",
+                "title": "Collectibles",
+                "price": "12 ETH",
+                "time": "3 hours ago",
+                "seller": "@yasmin"
+            },
+            {
+                "id": 4,
+                "img": "/img/auction_8.jpg",
+                "title": "Digital Arts",
+                "price": "22 ETH",
+                "time": "9 hours ago",
+                "seller": "@john"
+            },
+            {
+                "id": 5,
+                "img": "/img/auction_9.jpg",
+                "title": "Design Illusions",
+                "price": "42 ETH",
+                "time": "7 hours ago",
+                "seller": "@william"
+            },
+            {
+                "id": 6,
+                "img": "/img/auction_10.jpg",
+                "title": "Industrial",
+                "price": "36 ETH",
+                "time": "10 hours ago",
+                "seller": "@sara"
+            }
+        ],
+        "tabData_2": [
+            {
+                "id": 1,
+                "img": "/img/auction_6.jpg",
+                "title": "Virtual Worlds",
+                "price": "10 ETH",
+                "time": "8 hours ago",
+                "seller": "@junaid"
+            },
+            {
+                "id": 2,
+                "img": "/img/auction_7.jpg",
+                "title": "Collectibles",
+                "price": "12 ETH",
+                "time": "3 hours ago",
+                "seller": "@yasmin"
+            },
+            {
+                "id": 3,
+                "img": "/img/auction_8.jpg",
+                "title": "Digital Arts",
+                "price": "22 ETH",
+                "time": "9 hours ago",
+                "seller": "@john"
+            },
+            {
+                "id": 4,
+                "img": "/img/auction_9.jpg",
+                "title": "Photography",
+                "price": "69 ETH",
+                "time": "12 hours ago",
+                "seller": "@junaid"
+            }
+        ],
+        "tabData_3": [
+            {
+                "id": 1,
+                "img": "/img/auction_1.jpg",
+                "title": "Design Illusions",
+                "price": "10 ETH",
+                "time": "8 hours ago",
+                "seller": "@junaid"
+            },
+            {
+                "id": 2,
+                "img": "/img/auction_2.jpg",
+                "title": "Digital Arts",
+                "price": "12 ETH",
+                "time": "3 hours ago",
+                "seller": "@yasmin"
+            },
+            {
+                "id": 3,
+                "img": "/img/auction_3.jpg",
+                "title": "Photography",
+                "price": "22 ETH",
+                "time": "9 hours ago",
+                "seller": "@john"
+            },
+            {
+                "id": 4,
+                "img": "/img/auction_4.jpg",
+                "title": "Virtual Worlds",
+                "price": "69 ETH",
+                "time": "12 hours ago",
+                "seller": "@junaid"
+            }
+        ],
+        "filterData": [
+            {
+                "id": 1,
+                "title": "Listing"
+            },
+            {
+                "id": 2,
+                "title": "Likes"
+            },
+            {
+                "id": 3,
+                "title": "Purchase"
+            },
+            {
+                "id": 4,
+                "title": "Transfer"
+            },
+            {
+                "id": 5,
+                "title": "Sales"
+            },
+            {
+                "id": 6,
+                "title": "Bids"
+            },
+            {
+                "id": 7,
+                "title": "Burns"
+            },
+            {
+                "id": 8,
+                "title": "Followings"
+            }
+        ]
+    },
+    "authors": {
+        "preHeading": "Authors",
+        "heading": "Our Creators",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
+        "authorData": [
+            {
+              "id": 1,
+              "img": "/img/author_1.jpg",
+              "avatar": "/img/avatar_1.jpg",
+              "author": "Junaid Hasan",
+              "btnText": "Follow"
+            },
+            {
+              "id": 2,
+              "img": "/img/author_2.jpg",
+              "avatar": "/img/avatar_2.jpg",
+              "author": "Arham",
+              "btnText": "Follow"
+            },
+            {
+              "id": 3,
+              "img": "/img/author_3.jpg",
+              "avatar": "/img/avatar_3.jpg",
+              "author": "Yasmin",
+              "btnText": "Follow"
+            },
+            {
+                "id": 4,
+                "img": "/img/author_4.jpg",
+                "avatar": "/img/avatar_4.jpg",
+                "author": "William",
+                "btnText": "Follow"
+            },
+            {
+              "id": 5,
+              "img": "/img/author_5.jpg",
+              "avatar": "/img/avatar_5.jpg",
+              "author": "Johnson",
+              "btnText": "Follow"
+            },
+            {
+              "id": 6,
+              "img": "/img/author_6.jpg",
+              "avatar": "/img/avatar_6.jpg",
+              "author": "Sara Scotch",
+              "btnText": "Follow"
+            },
+            {
+              "id": 7,
+              "img": "/img/author_7.jpg",
+              "avatar": "/img/avatar_7.jpg",
+              "author": "John Deo",
+              "btnText": "Follow"
+            },
+            {
+              "id": 8,
+              "img": "/img/author_8.jpg",
+              "avatar": "/img/avatar_8.jpg",
+              "author": "Artnox",
+              "btnText": "Follow"
+            }
+        ]
+    },
+    "author": {
+        "img": "/img/auction_2.jpg",
+        "authorImg": "/img/avatar_8.jpg",
+        "author": "Artnox",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "authorId": "ZqpthncaYTsd0579hasfu00st",
+        "btnText": "Follow",
+        "socialData": [
+            {
+              "id": 1,
+              "link": "facebook",
+              "icon": "fab fa-facebook-f"
+            },
+            {
+              "id": 2,
+              "link": "twitter",
+              "icon": "fab fa-twitter"
+            },
+            {
+              "id": 3,
+              "link": "google-plus",
+              "icon": "fab fa-google-plus-g"
+            },
+            {
+              "id": 4,
+              "link": "vine",
+              "icon": "fab fa-vine"
+            }
+        ]
+    },
+    "wallet": {
+        "preHeading": "Wallet Connect",
+        "heading": "Connect your Wallet",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
+        "walletData": [
+            {
+                "id": 1,
+                "img": "/img/metamask.png",
+                "title": "MetaMask",
+                "content": "A browser extension with great flexibility. The web's most popular wallet"
+            },
+            {
+                "id": 2,
+                "img": "/img/authereum.png",
+                "title": "Authereum",
+                "content": "A user-friendly wallet that allows you to sign up with your phone number on any device"
+            },
+            {
+                "id": 3,
+                "img": "/img/walletconnect.png",
+                "title": "WalletConnect",
+                "content": "Pair with Trust, Argent, MetaMask & more. Works from any browser, without an extension"
+            },
+            {
+                "id": 4,
+                "img": "/img/dapper.png",
+                "title": "Dapper",
+                "content": "A security-focused cloud wallet with pin codes and multi-factor authentication"
+            },
+            {
+                "id": 5,
+                "img": "/img/kaikas.png",
+                "title": "Kaikas",
+                "content": "A simple-to-use wallet that works on both mobile and through a browser extension"
+            }
+        ]
+    }
+}
